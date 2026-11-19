@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "298535198612",
+    "project_id": "plotze-f83ff",
+    "storage_bucket": "plotze-f83ff.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:298535198612:android:9a11c2b926592c9334b981",
+        "android_client_info": {
+          "package_name": "com.example.studyup"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "298535198612-30mnhf9mnqaufjs5ibrp1874d8l5lkqt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAaciFFGGmggEonqQ8L9De67UjCNzcfqZA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "298535198612-30mnhf9mnqaufjs5ibrp1874d8l5lkqt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
